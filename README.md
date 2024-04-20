@@ -1,5 +1,5 @@
 
-# AdventureWorks - Bike Store Sales Analysis with Power BI (Personal Project)
+# AdventureWorks - Bike Store Sales Analysis with Power BI
 
 
 ## Overview
